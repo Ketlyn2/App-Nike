@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NikeApp">
-        <activity android:name=".MainActivity">
+        <activity android:name=".Covid"></activity>
+        <activity
+            android:name=".Products"
+            android:label="@string/title_activity_products"
+            android:theme="@style/Theme.NikeApp.NoActionBar" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Home">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

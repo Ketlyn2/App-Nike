@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NikeApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_products">Produtos</string>
+    <string name="title_covid">Pandemia</string>
+    <string name="title_activity_products">Products</string>
+    <string name="tab_text_1">Feminino</string>
+    <string name="tab_text_2">Masculino</string>
 </resources>
